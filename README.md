@@ -2,10 +2,9 @@
 
 ## It is MERN Stack based Full Stack Web Development Project
 
- [Live Link Of this project]("https://doctors-portal-4bf91.web.app/") https://doctors-portal-4bf91.web.app/\
-
- Client Site https://github.com/Sajib-Debnath/doctors-portal-client\
- Server Site https://github.com/Sajib-Debnath/doctors-portal-server\
+ [Live Link Of this project]("https://doctors-portal-4bf91.web.app/") : https://doctors-portal-4bf91.web.app/
+ Client Site                : https://github.com/Sajib-Debnath/doctors-portal-client
+ Server Site                : https://github.com/Sajib-Debnath/doctors-portal-server
 
 
 ## I used 
@@ -27,5 +26,5 @@
 
 ## Deploy
 Client Side Deployed on Firebase\
-Server Side Deployed on Vercel\
+Server Side Deployed on Vercel
 
