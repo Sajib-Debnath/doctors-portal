@@ -1,11 +1,11 @@
 # Doctors Portal
 
-## Ii is MERN Stack based Full Stack Web Development Project
+## It is MERN Stack based Full Stack Web Development Project
 
-[Live Link Of this project]("https://doctors-portal-4bf91.web.app/")
+### [Live Link Of this project]("https://doctors-portal-4bf91.web.app/")
 
-* [Client Site]("https://github.com/Sajib-Debnath/doctors-portal-client")
-* [Server Site]("https://github.com/Sajib-Debnath/doctors-portal-server")
+### Client Site https://github.com/Sajib-Debnath/doctors-portal-client\
+### Server Site https://github.com/Sajib-Debnath/doctors-portal-server\
 
 
 ## I used 
@@ -13,7 +13,7 @@
 * CSS3
 * Tailwind CSS
     * Daisy UI
-* React JS
+* React JS \
     `Some Major Dependencies`
     * react-day-picker
     * react-hook-form
@@ -26,6 +26,6 @@
 
 
 ## Deploy
-Client Side Deployed on Firebase
-Server Side Deployed on Vercel
+Client Side Deployed on Firebase \
+Server Side Deployed on Vercel \
 
